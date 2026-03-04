@@ -7,7 +7,7 @@
 
 # Build output
 build/
-skill-link
+/skill-link
 
 # Test binary, built with `go test -c`
 *.test
